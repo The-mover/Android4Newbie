@@ -1,13 +1,13 @@
 ## Task List
 
-- [x] TextView (To show “Hello World!”)
+- [x] TextView (*To show “Hello World!”*)
 - [x] Button
 - [x] Toast
-- [x] EditText (to get text input)
+- [x] EditText (*to get text input*)
 - [x] ImageView
 - [x] LinearLayout
 - [x] RelativeLayout
-- [ ] ConstraintLayout
+- [x] ConstraintLayout
 - [ ] CoordinatorLayout
 - [x] WebView
 - [ ] Snackbar
@@ -15,9 +15,9 @@
 - [ ] Pop up Dialog
 - [x] Radio Button
 - [x] CheckBox
-- [x] Activity (start an activity from another activity)
+- [x] Activity (*start an activity from another activity*)
 - [x] Data transfer between two ‘Activity’
-- [x] Activity Life Cycle (very very important!)
+- [x] **Activity Life Cycle**
 - [ ] Phone call, email, SMS
 - [ ] SharedPreference
 - [ ] Fragment
@@ -28,7 +28,7 @@
 - [ ] Learn to use third party libraries.
 - [ ] Learn Logger Library
 - [ ] Learn Picasso and Glide Library for image loading
-- [ ] Network call (REST API) with Retrofit (very very important!)***
+- [ ] **Network call (*REST API*) with Retrofit**
 - [ ] Butter Knife Library
 - [ ] EventBus Library
 - [ ] RecyclerView and CardView
@@ -43,6 +43,6 @@
 - [ ] Use Youtube API, Map API
 - [ ] Use Social Login
 - [ ] Learn about basic design pattern like: Singleton, Builder patter, Factory pattern etc
-- [ ] Learn MVP architectural pattern (important)***
-- [ ] Android Development best practices (Important)***
+- [ ] **Learn MVP architectural pattern**
+- [ ] **Android Development best practices**
 - [ ] Git for version control
